@@ -1,0 +1,18 @@
+The stock ender 3 hot end leaves a lot to be desired. It uses high rpm, needlessly thin, 12V fans that sound like a laptop having a bad day.
+
+
+I hated this when I first got my printer so something needed to be done. 
+
+
+Enter Ductinator: 
+
+https://www.thingiverse.com/thing:3594440
+
+A fairly complex peice, that took a second to print with sufficient rigidity and wall quality, but was well worth the effort. 
+
+
+I paired it with 2 Noctua 40mm x 10mm fans for part cooling and a Noctua 40mm x 20mm fan for the hot end cooling. These fans run at 5V which necessitated 
+an inline buck converter which I would mount on the lower extrusion.
+
+There are a few photos under V1UpgradedCooling Photos in this repo. 
+
